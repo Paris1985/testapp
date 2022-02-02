@@ -1,6 +1,6 @@
 package com.toolqa.tst;
 
-import com.toolsqa.common.BaseTest;
+import com.toolsqa.common.ui.BaseTest;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

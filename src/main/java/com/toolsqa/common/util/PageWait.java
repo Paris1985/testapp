@@ -1,5 +1,6 @@
-package com.toolsqa.common;
+package com.toolsqa.common.util;
 
+import com.toolsqa.common.ui.conf.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -33,3 +34,13 @@ public final class PageWait {
         return wait.until(presenceOfElementLocated(locator));
     }
 }
+
+
+//    WebDriver
+//            WebElement
+//    Dropdown
+//
+//            FluentWait
+//    WebDriverWait
+//
+//            NoSuchElementException

@@ -1,5 +1,6 @@
-package com.toolsqa.common;
+package com.toolsqa.common.ui;
 
+import com.toolsqa.common.ui.conf.Driver;
 import org.openqa.selenium.WebDriver;
 
 public class BasePage {

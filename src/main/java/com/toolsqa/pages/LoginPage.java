@@ -1,9 +1,9 @@
 package com.toolsqa.pages;
 
-import com.toolsqa.common.BasePage;
+import com.toolsqa.common.ui.BasePage;
 
 
-import com.toolsqa.common.PageWait;
+import com.toolsqa.common.util.PageWait;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;

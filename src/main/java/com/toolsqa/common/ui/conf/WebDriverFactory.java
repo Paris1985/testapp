@@ -1,14 +1,10 @@
-package com.toolsqa.common;
+package com.toolsqa.common.ui.conf;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.chromium.ChromiumOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-
-import java.io.IOException;
-import java.util.Properties;
 
 public class WebDriverFactory {
 

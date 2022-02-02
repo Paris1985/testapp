@@ -1,4 +1,4 @@
-package com.toolsqa.common;
+package com.toolsqa.common.ui.conf;
 
 import org.openqa.selenium.WebDriver;
 
